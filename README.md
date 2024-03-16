@@ -1,2 +1,2 @@
-# system-config
-https://github.com/wenjinnn/config
+# dotfiles
+参考了：<https://github.com/rbnis/legacy-dotfiles>
